@@ -2,9 +2,6 @@
 Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Bangalore<br>🌱 I’m currently learning Flutter and DSA<br>👯 I’m looking to collaborate on Mobile App Development projects<br>💬 Ask me about Flutter and DSA<br>📫 How to reach me:Linkedin-@prathamKumar ,Twitter-@iampratham_18
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/pratham-kumar-3a196a202) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/iampratham_18) 
-
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/pratham-kumar-3a196a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-kumar-3a196a202" height="30" width="40" /></a>

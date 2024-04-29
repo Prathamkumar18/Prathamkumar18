@@ -57,7 +57,7 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Ba
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prathamkumar18&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Prathamkumar18&theme=radical&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamkumar18&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamkumar18&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

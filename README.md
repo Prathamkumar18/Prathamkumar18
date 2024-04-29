@@ -70,4 +70,6 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Ba
 ---
 [![](https://visitcount.itsvg.in/api?id=Prathamkumar18&icon=2&color=6)](https://visitcount.itsvg.in)
 
+![Pratham's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamkumar18&custom_title=Pratham's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=6C5AB5&line=6C5AB5&point=6C5AB5&area_color=4F3D7A&title_color=6C5AB5&area=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

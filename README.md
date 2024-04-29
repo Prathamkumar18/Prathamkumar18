@@ -57,9 +57,12 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Ba
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prathamkumar18&theme=radical&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamkumar18&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamkumar18&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamkumar18&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamkumar18&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)&emsp;&emsp;&emsp;&emsp;&emsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prathamkumar18&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamkumar18&theme=radical&hide_border=true)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathamkumar18&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prathamkumar18&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prathamkumar18&theme=radical&no-frame=true&no-bg=false&margin-w=4)

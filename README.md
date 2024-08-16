@@ -7,7 +7,7 @@
   width="400"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
-Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Bangalore<br>🌱 I’m currently learning SpringBoot and Angular<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about SpringBoot,Angular and DSA<br>📫 How to reach me:Linkedin-@prathamKumar ,Twitter-@iampratham_18
+Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Software Engineer at Subex, Bangalore<br>🌱 I’m currently learning SpringBoot and Angular<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about SpringBoot,Angular and DSA<br>📫 How to reach me:Linkedin-@prathamKumar ,Twitter-@iampratham_18
 
 ## Connect with me:
 <p align="left">
@@ -23,14 +23,23 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Ba
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring boot" width="40" height="40"/>
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="typescript" width="40" height="40"/>
     </a>
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="angular" width="40" height="40"/>
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring boot" width="40" height="40"/>
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png?20210416091439" alt="spark" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -43,9 +52,6 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Student at DSCE(CSE),Ba
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>

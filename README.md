@@ -7,7 +7,7 @@
   width="400"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
-Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Software Engineer at Subex, Bangalore<br>🌱 I’m currently learning SpringBoot and Angular<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about SpringBoot,Angular and DSA<br>📫 How to reach me:Linkedin-@prathamKumar ,Twitter-@iampratham_18
+Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Software Engineer at Subex, Bangalore<br>🌱 Expanding my skills in SpringBoot and Angular<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about SpringBoot,Angular and DSA<br>📫 How to reach me: <a href="https://www.linkedin.com/in/pratham-kumar-3a196a202" target="_blank">LinkedIn - Pratham Kumar</a>
 
 ## Connect with me:
 <p align="left">

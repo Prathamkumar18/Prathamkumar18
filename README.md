@@ -64,9 +64,7 @@ Hey👋!<br><br>I'm Pratham Kumar<br><br>🔭 Currently: Software Engineer at Su
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathamkumar18&theme=radical&hide_border=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prathamkumar18&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamkumar18&theme=radical&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prathamkumar18&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prathamkumar18&icon=2&color=6)](https://visitcount.itsvg.in)
